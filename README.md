@@ -1,21 +1,24 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+░▒▓█ SYSTEM_WAKE █▓▒░
+> boot sequence initiated...
+> loading shadow kernel...
+> decrypting ghost tunnel...
+> forging udp handshake...
+> masking identity ████
+> injecting silent packets...
+> bypassing isp firewall...
+> rerouting trace vectors...
 
-# Run and deploy your AI Studio app
+[■□□□□□□□□□] 10%
+[■■■□□□□□□□] 32%
+[■■■■■□□□□□] 57%
+[■■■■■■■□□□] 78%
+[■■■■■■■■■■] 100%
 
-This contains everything you need to run your app locally.
+⚠ UNKNOWN NODE DETECTED
+⚠ TRACE ATTEMPT BLOCKED
+⚠ IDENTITY ERASED
 
-View your app in AI Studio: https://ai.studio/apps/1a1894b1-d20e-4f89-9707-4cea1d54ef42
-
-## Run Locally
-
-**Prerequisites:**  [Android Studio](https://developer.android.com/studio)
-
-
-1. Open Android Studio
-2. Select **Open** and choose the directory containing this project
-3. Allow Android Studio to fix any incompatibilities as it imports the project.
-4. Create a file named `.env` in the project directory and set `GEMINI_API_KEY` in that file to your Gemini API key (see `.env.example` for an example)
-5. Remove this line from the app's `build.gradle.kts` file: `signingConfig = signingConfigs.getByName("debugConfig")`
-6. Run the app on an emulator or physical device
+◉ MODE    : PHANTOM
+◉ SIGNAL  : STABLE
+◉ STATUS  : CONNECTED
+◉ ACCESS  : GRANTED
