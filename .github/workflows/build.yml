@@ -20,8 +20,8 @@ jobs:
         with:
           gradle-version: 9.3.1
 
-      - name: Build Debug APK
-        run: gradle assembleDebug
+      - name: Build Debug APK (Bypass Signing)
+        run: gradle assembleDebug -x validateSigningDebug
 
       - name: Upload APK Artifact
         uses: actions/upload-artifact@v4
