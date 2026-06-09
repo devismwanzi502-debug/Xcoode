@@ -1,0 +1,6 @@
+{
+  "name": "AegisLink",
+  "description": "High-speed, low-latency mobile game booster and VPN split-tunneling service blueprint.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
